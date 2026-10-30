@@ -1,7 +1,7 @@
 # audio_music_aoa
 audio music aoa algo demo
 
-## the entry is in release_bin.zip
+## the entry is in x86w11_audio_music_demo_20261029.zip
    unzip it and click and run.
    
 This project is a demonstration of ‌sound source DOA localization based on the MUSIC algorithm for microphone arrays‌. It can collect audio signals from an 8-channel microphone array and calculate the elevation and azimuth angles of the sound source relative to the array through the MUSIC algorithm.
@@ -29,7 +29,11 @@ Installation Tutorial
 The demonstration program can be run directly after decompression.
 
 Usage Instructions
-[To be supplemented]
+run two exe files(go_web_amd64.exe to start http server)
+audio_music.exe is program run algorithm calculation
+and open browser and access: 
+localhost:8001/index.html    (az,el tracking demo)
+localhost:8001/index_mesh.html  (p music graphic demo)
 
 ## 谱估计展示(pmusic graphic demo. two signal source) (click play)
 ![pmusic demo](images/2026-10-30_09-27-40.gif)
