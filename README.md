@@ -31,6 +31,16 @@ The demonstration program can be run directly after decompression.
 Usage Instructions
 [To be supplemented]
 
+## 谱估计展示(two source)
+![pmusic demo](images/2026-10-30_09-27-40.gif)
+
+## 俯仰角方位角展示
+![az el demo](images/2026-10-30_10-05-59.gif)
+
+## 控制块拖动
+![az el demo](images/2026-10-30_10-09-24.gif)
+
+
 User Permissions
 The software downloaded under this project can only be used for demonstration. No secondary development or embedding into applications without project cooperation is allowed. If any commercial loss is caused, the provider of this demonstration program shall not be held responsible.
 
