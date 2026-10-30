@@ -44,6 +44,9 @@ localhost:8001/index_mesh.html  (p music graphic demo)
 ## 控制块拖动 (control show) (play)
 ![az el demo](images/2026-10-30_10-09-24.gif)
 
+## cal and web delay (play)
+![cal and web delay demo](images/2026-10-30_10-37-52.gif)
+
 
 User Permissions
 The software downloaded under this project can only be used for demonstration. No secondary development or embedding into applications without project cooperation is allowed. If any commercial loss is caused, the provider of this demonstration program shall not be held responsible.
