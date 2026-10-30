@@ -44,7 +44,7 @@ localhost:8001/index_mesh.html  (p music graphic demo)
 ## 控制块拖动 (control show) (play)
 ![az el demo](images/2026-10-30_10-09-24.gif)
 
-## cal and web delay (play)
+## algo_cal and web delay without optimization(play)
 ![cal and web delay demo](images/2026-10-30_10-37-52.gif)
 
 
