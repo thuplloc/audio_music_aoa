@@ -31,13 +31,13 @@ The demonstration program can be run directly after decompression.
 Usage Instructions
 [To be supplemented]
 
-## 谱估计展示(two source)
+## 谱估计展示(pmusic graphic demo. two signal source) (click play)
 ![pmusic demo](images/2026-10-30_09-27-40.gif)
 
-## 俯仰角方位角展示
+## 俯仰角方位角展示 (az el tracking show)(click play)
 ![az el demo](images/2026-10-30_10-05-59.gif)
 
-## 控制块拖动
+## 控制块拖动 (control show) (play)
 ![az el demo](images/2026-10-30_10-09-24.gif)
 
 
