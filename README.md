@@ -48,6 +48,8 @@ localhost:8001/index_mesh.html  (p music graphic demo)
 ![cal and web delay demo](images/2026-10-30_10-37-52.gif)
 
 ##【项目合作】 请有合作意向的 在 Discussions 或者 issues 板块联系。（这两个板块在项目头像的上一行，谢谢）
+优化结果并不会在上图显示
+
 User Permissions
 The software downloaded under this project can only be used for demonstration. No secondary development or embedding into applications without project cooperation is allowed. If any commercial loss is caused, the provider of this demonstration program shall not be held responsible.
 
