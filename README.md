@@ -36,10 +36,10 @@ localhost:8001/index.html    (az,el tracking demo)
 localhost:8001/index_mesh.html  (p music graphic demo)
 
 ## 谱估计展示(pmusic graphic demo. two signal source) (click play)
-![pmusic demo](images/2026-10-30_09-27-40.gif)
+![pmusic demo](images/2026-11-02_10-24-58.gif)
 
 ## 俯仰角方位角展示 (az el tracking show)(click play)
-![az el demo](images/2026-10-30_10-05-59.gif)
+![az el demo](images/2026-11-02_10-29-49.gif)
 
 ## 控制块拖动 (control show) (play)
 ![az el demo](images/2026-10-30_10-09-24.gif)
