@@ -44,7 +44,7 @@ localhost:8001/index_mesh.html  (p music graphic demo)
 ## 控制块拖动 (control show) (play)
 ![az el demo](images/2026-10-30_10-09-24.gif)
 
-## algo_cal and web delay without optimization(play)
+## 算法延时和网络延时没有优化时( H618 优化 到 500次每秒)
 ![cal and web delay demo](images/2026-10-30_10-37-52.gif)
 
 ##【项目合作】 请有合作意向的 在 Discussions 或者 issues 板块联系。（这两个板块在项目头像的上一行，谢谢）
